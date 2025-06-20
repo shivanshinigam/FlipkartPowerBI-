@@ -47,16 +47,3 @@ The dashboard is designed to help stakeholders and decision-makers:
 3. Load the data source or connect your own Flipkart dataset
 4. Interact with the dashboard filters and visuals
 
-## 📬 Contact
-
-For any queries or collaboration ideas, feel free to reach out:
-
-**Asad Khan**  
-Email: khanasad.27n0v@gmail.com  
-LinkedIn: https://www.linkedin.com/in/asad-khan-0a526225b
-
-## 🏷️ Tags
-
-`Power BI` `Flipkart` `Sales Analytics` `Data Visualization` `Business Intelligence` `DAX` `E-Commerce`
-
----
